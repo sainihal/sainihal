@@ -2,8 +2,6 @@
 <h3 align="center">An Aspiring Full Stack Developer!, from Banglore, Inida. </h3>
 <h4 align="center">view  my portfolio at <a href="http://sainihal.github.io">sainihal.github.io</a>. </h4>
 <h4 align="center">view  my  <a href="http://sainihal.github.io">resume</a> here.</h4>
-<h4 align="center">view  my  <a href="https://drive.google.com/file/d/1OkYVoYyZPM47PC5mePwLoKcFBs9CkoRj/view?usp=sharing">resume</a> here.</h4>
-
 
 ### Skills
 -  Languages - **HTML, CSS and JavaScript**
