@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Sai Nihal. </h1>
-<h3 align="center">An Aspiring Full Stack Developer!, from Banglaore, India. </h3>
+<h3 align="center">An Aspiring Full Stack Developer!, from Bangalore, India. </h3>
 <h4 align="center"> <a href="http://sainihal.github.io" style="margin:5px">Portfolio.</a> <a href="https://drive.google.com/file/d/1OkYVoYyZPM47PC5mePwLoKcFBs9CkoRj/view?usp=sharing" stlye="margin:5px">Resume.</a></h4>
 <!-- <h4 align="center"><a href="http://sainihal.github.io">Resume</a></h4> -->
 
